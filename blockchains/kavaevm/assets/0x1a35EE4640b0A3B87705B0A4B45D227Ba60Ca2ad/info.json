@@ -1,0 +1,17 @@
+{
+    "name": "Axelar Wrapped WBTC",
+    "symbol": "axlWBTC",
+    "type": "KAVAEVM",
+    "decimals": 8,
+    "description": "Axelar Wrapped WBTC",
+    "website": "",
+    "explorer": "https://kavascan.com/address/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+    "status": "active",
+    "id": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+    "links": [
+        
+    ],
+    "tags": [
+        ""
+    ]
+}

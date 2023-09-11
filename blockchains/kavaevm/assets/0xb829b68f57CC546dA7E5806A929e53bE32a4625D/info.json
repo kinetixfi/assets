@@ -1,0 +1,17 @@
+{
+    "name": "Axelar Wrapped Ether",
+    "symbol": "axlETH",
+    "type": "KAVAEVM",
+    "decimals": 18,
+    "description": "Axelar Wrapped Ether",
+    "website": "",
+    "explorer": "https://kavascan.com/address/0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+    "status": "active",
+    "id": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+    "links": [
+        
+    ],
+    "tags": [
+        ""
+    ]
+}
