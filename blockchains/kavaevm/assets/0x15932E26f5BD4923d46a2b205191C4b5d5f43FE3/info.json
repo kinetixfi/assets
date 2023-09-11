@@ -1,0 +1,17 @@
+{
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "type": "KAVAEVM",
+    "decimals": 18,
+    "description": "Magic Internet Money",
+    "website": "",
+    "explorer": "https://kavascan.com/address/0x471EE749bA270eb4c1165B5AD95E614947f6fCeb",
+    "status": "active",
+    "id": "0x471EE749bA270eb4c1165B5AD95E614947f6fCeb",
+    "links": [
+        
+    ],
+    "tags": [
+        ""
+    ]
+}

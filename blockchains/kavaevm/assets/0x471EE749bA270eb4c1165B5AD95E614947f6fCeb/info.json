@@ -1,0 +1,17 @@
+{
+    "name": "ATOM",
+    "symbol": "ATOM",
+    "type": "KAVAEVM",
+    "decimals": 6,
+    "description": "ATOM",
+    "website": "",
+    "explorer": "https://kavascan.com/address/0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3",
+    "status": "active",
+    "id": "0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3",
+    "links": [
+        
+    ],
+    "tags": [
+        ""
+    ]
+}
