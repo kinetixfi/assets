@@ -1,9 +1,9 @@
 {
-    "name": "Bridged USD Coin  Axelar",
+    "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
     "type": "KAVAEVM",
     "decimals": 6,
-    "description": "Bridged USD Coin  Axelar",
+    "description": "Axelar Wrapped USDC",
     "website": "",
     "explorer": "https://kavascan.com/address/0xEB466342C4d449BC9f53A865D5Cb90586f405215",
     "status": "active",
