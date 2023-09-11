@@ -1,0 +1,17 @@
+{
+    "name": "TetherUSDt",
+    "symbol": "USDt",
+    "type": "KAVAEVM",
+    "decimals": 6,
+    "description": "TetherUSDt",
+    "website": "",
+    "explorer": "https://kavascan.com/address/0x919C1c267BC06a7039e03fcc2eF738525769109c",
+    "status": "active",
+    "id": "0x919C1c267BC06a7039e03fcc2eF738525769109c",
+    "links": [
+        
+    ],
+    "tags": [
+        ""
+    ]
+}

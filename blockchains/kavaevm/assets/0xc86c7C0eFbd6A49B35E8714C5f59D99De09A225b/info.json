@@ -1,0 +1,17 @@
+{
+    "name": "Wrapped Kava",
+    "symbol": "WKAVA",
+    "type": "KAVAEVM",
+    "decimals": 18,
+    "description": "Wrapped KAVA",
+    "website": "",
+    "explorer": "https://kavascan.com/address/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+    "status": "active",
+    "id": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+    "links": [
+        
+    ],
+    "tags": [
+        ""
+    ]
+}
