@@ -1,13 +1,13 @@
 {
-    "name": "ATOM",
-    "symbol": "ATOM",
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
     "type": "KAVAEVM",
-    "decimals": 6,
-    "description": "ATOM",
+    "decimals": 18,
+    "description": "Magic Internet Money",
     "website": "",
-    "explorer": "https://kavascan.com/address/0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3",
+    "explorer": "https://kavascan.com/address/0x471EE749bA270eb4c1165B5AD95E614947f6fCeb",
     "status": "active",
-    "id": "0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3",
+    "id": "0x471EE749bA270eb4c1165B5AD95E614947f6fCeb",
     "links": [
         
     ],
